@@ -374,10 +374,11 @@ footer {
 
     .container .box {
         position: relative;
-        width: calc(450px - 30px);
+        width: calc(400px - 30px);
         height: calc(900px - 30px);
         background: lightgray;
         margin: 5px;
+        left: 22px;
         box-sizing: border-box;
         border-radius: 20px;
         box-shadow: 0 0 10px rgba(0,0,0,0.3);
